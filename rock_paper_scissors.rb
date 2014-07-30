@@ -8,6 +8,7 @@
 
 # define array
 
+#Hi Daniel, you did a really good job on this program!
 
 
 choice = ["r", "p", "s"]
